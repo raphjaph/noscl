@@ -18,6 +18,7 @@ Usage:
   noscl public
   noscl publish [--reference=<id>...] [--profile=<id>...] <content>
   noscl message [--reference=<id>...] <id> <content>
+  noscl chat <id>
   noscl metadata --name=<name> [--about=<about>] [--picture=<picture>]
   noscl profile <key>
   noscl follow <key> [--name=<name>]
